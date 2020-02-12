@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - areaDoCirculo",
+            "request": "launch",
+            "mainClass": "maratona.areaDoCirculo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Poligono",
+            "request": "launch",
+            "mainClass": "maratona.Poligono"
+        }
+    ]
+}
